@@ -29,4 +29,3 @@ A script futtatható **egyszeri ellenőrzésként**, vagy **folyamatosan hátté
 ```powershell
 .\start-gep.ps1
 ### Folyamatos futtatás: .\start-gep.ps1 -auto
-https://roadmap.sh/projects/server-stats
